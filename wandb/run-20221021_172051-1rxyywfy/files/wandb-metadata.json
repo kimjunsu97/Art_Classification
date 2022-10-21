@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-10-21T08:20:52.550345",
+    "startedAt": "2022-10-21T08:20:51.886057",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Art_Classification/Baseline.ipynb",
+    "root": "D:/Dacon_Art_Classification/Art_Classification",
+    "git": {
+        "remote": "https://github.com/kimjunsu97/Art_Classification.git",
+        "commit": "73dadd940d3c5da448fd2f7b128d005254f02fb8"
+    },
+    "email": "80962130+kimjunsu97@users.noreply.github.com",
+    "host": "DESKTOP-MLIJHR6",
+    "username": "kimju",
+    "executable": "C:\\Users\\kimju\\anaconda3\\envs\\dacon\\python.exe"
+}
